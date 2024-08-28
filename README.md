@@ -81,6 +81,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [dgraph](https://github.com/dgraph-io/dgraph) - Scalable, Distributed, Low Latency, High Throughput Graph Database.
 * [diskv](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
 * [dolt](https://github.com/dolthub/dolt) - A MySQL-compatible database with Git-style version control. The first SQL database you can branch and merge.
+* [EchoVault](https://github.com/EchoVault/EchoVault) - Embeddable and distributed in-memory alternative to Redis.
 * [eliasdb](https://github.com/krotik/eliasdb) - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
 * [emitter](https://github.com/emitter-io/emitter) - Scalable, low-latency, distributed & secure pub/sub database with time-series message storage, suitable for IoT, gaming, apps and real-time web.
 * [forestdb](https://github.com/couchbase/goforestdb) - Go bindings for ForestDB.
@@ -139,6 +140,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [igor](https://github.com/galeone/igor) - Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.
 * [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - Powerful data retrieval methods as well as DB-agnostic query building capabilities.
 * [SQLBoiler](https://github.com/volatiletech/sqlboiler) - a tool to generate a Go ORM tailored to your database schema. It is a "database-first" ORM as opposed to "code-first", and you must first create your database.
+* [sq](https://github.com/bokwoon95/sq) - Type-safe data mapper and query builder
 * [sqrl](https://github.com/elgris/sqrl) - SQL query builder, fork of Squirrel with improved performance.
 * [Squirrel](https://github.com/Masterminds/squirrel) - Go library that helps you build SQL queries.
 * [xo](https://github.com/knq/xo) - Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server.
